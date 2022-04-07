@@ -9,4 +9,4 @@ preço_dia=float(input("Insira qual o valor do aluguel do carro por dia: "))
 #calcular o preço a pagar
 total_pago=preço_dia*dias+15/100*km
 #mostrar o resultado dos dados calculados pro usuário
-print("O aluguel de um carro que rodou {}km por {}dias a um valor de {}por dias mais R$0,15 por km rodado erá custar R${}".format(km,dias,preço_dia,total_pago))
+print("O aluguel de um carro que rodou {}km por {}dias a um valor de {}por dias mais R$0,15 por km rodado erá custar R${:.2f}".format(km,dias,preço_dia,total_pago))
