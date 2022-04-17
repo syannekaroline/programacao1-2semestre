@@ -17,4 +17,3 @@ if c%4==0:
 
 else:
     print("\nO número não é multiplo de 4: ",c)
-    
