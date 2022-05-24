@@ -103,9 +103,6 @@ print("Posição de 2 na tupla c: {}".format(c.index(2)))#primeira ocorrencia
 print("Posição de 2 na tupla c: {}".format(c.index(2,1)))#qual o indice apartir da posição 1
 
 #tuplas podem armazenar valores de tipos diferentes
-#não de pode imutar mas se pode apagar uma tupla da memória usando del
-del(c)
+#não de pode imutar mas se pode apagar uma tupla da memória usando del del(c)
 
-
-
-
+#maior e menor valor dentro da tupla - max(tupla) min(tupla)
