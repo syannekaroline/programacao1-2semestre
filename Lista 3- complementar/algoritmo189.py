@@ -14,7 +14,7 @@ linf=int(input("Insira o limite inferior de temperatura em Fahrenheit: "))
 #solicitar o decremento
 dec=int(input("Insira o decremento em Fahrenheit:"))
 
-for t in range(lsup,linf,-dec):
+for t in range(lsup,linf+1,-dec):
    
    C=5*(t-32)/9
 

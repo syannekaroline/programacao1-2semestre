@@ -1,0 +1,322 @@
+Summary
+Malaria is the tropical disease most commonly imported into the UK, with 1500–2000 cases reported each year, and 10–20 deaths. Approximately three-quarters of reported malaria cases in the UK are caused by Plasmodium falciparum, which is capable of invading a high proportion of red blood cells and rapidly leading to severe or life-threatening multi-organ disease. Most non-falciparum malaria cases are caused by Plasmodium vivax; a few cases are caused by the other two species of Plasmodium: Plasmodium ovale or Plasmodium malariae. Mixed infections with more than 1 species of parasite can occur; they commonly involve P. falciparum with the attendant risks of severe malaria.
+
+Management of malaria depends on awareness of the diagnosis and on performing the correct diagnostic tests: the diagnosis cannot be excluded until 3 blood specimens have been examined by an experienced microscopist. There are no typical clinical features of malaria, even fever is not invariably present. The optimum diagnostic procedure is examination of thick and thin blood films by an expert to detect and speciate the malarial parasites; P. falciparum malaria can be diagnosed almost as accurately using rapid diagnostic tests (RDTs) which detect plasmodial antigens or enzymes, although RDTs for other Plasmodium species are not as reliable.
+
+The treatment of choice for non-falciparum malaria is a 3-day course of oral chloroquine, to which only a limited proportion of P. vivax strains have gained resistance. Dormant parasites (hypnozoites) persist in the liver after treatment of P. vivax or P. ovale infection: the only currently effective drug for eradication of hypnozoites is primaquine. This must be avoided or given with caution under expert supervision in patients with glucose-6-phosphate dehydrogenase deficiency (G6PD), in whom it may cause severe haemolysis. Uncomplicated P. falciparum malaria can be treated orally with quinine, atovaquone plus proguanil (Malarone®) or co-artemether (Riamet®); quinine is highly effective but poorly tolerated in prolonged dosage and is always supplemented by additional treatment, usually with oral doxycycline. ALL patients treated for P. falciparum malaria should be admitted to hospital for at least 24 h, since patients can deteriorate suddenly, especially early in the course of treatment.
+
+Severe falciparum malaria, or infections complicated by a relatively high parasite count (more than 2% of red blood cells parasitized), should be treated with intravenous therapy until the patient is well enough to continue with oral treatment. In the UK, the treatment of choice for severe or complicated malaria is currently an infusion of intravenous quinine. This may exacerbate hypoglycaemia that can occur in malaria; patients treated with intravenous quinine therefore require careful monitoring. Intravenous artesunate reduces high parasite loads more rapidly than quinine and is more effective in treating severe malaria in selected situations. It can also be used in patients with contra-indications to quinine. Intravenous artesunate is unlicensed in the EU. Assistance in obtaining artesunate may be sought from specialist tropical medicine centres, on consultation, for named patients. Patients with severe or complicated malaria should be managed in a high dependency or intensive care environment. They may require haemodynamic support and management of acute respiratory distress syndrome, disseminated intravascular coagulation, renal impairment/failure, seizures, and severe intercurrent infections including gram-negative bacteraemia/septicaemia.
+
+Falciparum malaria in pregnancy is more likely to be severe and complicated: the placenta contains high levels of parasites. Stillbirth or early delivery may occur and diagnosis can be difficult if parasites are concentrated in the placenta and scanty in the blood. The treatment of choice for falciparum malaria in pregnancy is quinine; doxycycline is contraindicated in pregnancy but clindamycin can be substituted for it, and is equally effective. Primaquine (for eradication of P. vivax or P. ovale hypnozoites) is contraindicated in pregnancy; after treatment for these infections a pregnant woman should take weekly chloroquine prophylaxis until after delivery when hypnozoite eradication can be considered.
+
+Children are over-represented in the incidence of malaria in the UK, probably because completely susceptible UK-born children accompany their overseas-born parents on visits to family and friends in endemic areas. Malaria in children (and sometimes in adults) may present with misleading symptoms such as gastrointestinal features, sore throat or lower respiratory complaints; the diagnosis must always be sought in a feverish or very sick child who has visited malaria-endemic areas. Children can be treated with most of the antimalarial regimens which are effective in adults, with appropriate dosage adjustment. Doxycycline plus quinine should not be given to children under 12 years as doxycycline is contraindicated in this age group, but clindamycin can be substituted for doxycycline, and pyrimethamine–sulfadoxine (Fansidar®) may also be an effective substitute. An acute attack of malaria does not confer protection from future attacks: individuals who have had malaria should take effective anti-mosquito precautions and chemoprophylaxis during future visits to endemic areas.
+
+Previous article in issueNext article in issue
+Keywords
+MalariaSymptomsTreatmentPlasmodium falciparumRapid diagnostic testsHypnozoitesUncomplicated malariaSevere malariaPrimaquineChloroquineAtovaquone–proguanilArtesunateQuinineDoxycyclineClindamycinPyrimethamine–sulfadoxineCo-artemExchange transfusionG6PD deficiencyPregnancyChildrenChemprophylaxis
+Background
+Malaria remains one of the most common imported infections in the United Kingdom (UK). Between 1500 and 2000 malaria cases are reported each year in the UK, although informal reviews of reporting suggest that this may represent about half of all cases that occur (personal communication; P. Chiodini: Malaria Reference Laboratory). Approximately three-quarters of reported infections are due to Plasmodium falciparum and there were between 10 and 20 deaths annually. Children under 16 years account for 14% of cases. Two-thirds of cases occur in people of African or South Asia ethnic origin and over half of the cases occur in those who had been visiting friends and family in endemic areas. Most patients with falciparum malaria acquire infection in Africa: West Africa is the commonest geographical source. Most Plasmodium vivax infections are acquired in South Asia.1
+
+This document offers guidance for the management of both uncomplicated and complicated malaria in the UK. It complements existing Health Protection Agency (HPA) guidelines on the prevention of malaria in the UK travellers. (http://www.hpa.org.uk/infections/topics_az/malaria/guidelines.htm). It has been based on a review of the available evidence by the HPA Advisory Committee on Malaria Prevention, with input from other experts and expert bodies, and incorporates international guidance including WHO guidelines on treatment and definitions of severe malaria.2, 3 These guidelines will specifically present a UK perspective on management. Other countries including USA and Canada have recently published their own guidelines.4, 5 These guidelines have been specifically developed for use in a non-endemic area, but necessarily depend heavily upon evidence obtained from studies in endemic areas. Although levels of evidence have not been included in this document, future versions will include these as the evidence base for treatment in non-endemic areas expands. The guidelines are complemented by the more detailed information about individual drug regimens and contra-indications found in the British National Formulary. A short summary of key points in the initial assessment and management, for use in emergency departments, is available from the British Infection Society website (www.britishinfectionsociety.org).
+
+Assessment of the patient with suspected malaria (Box 1)
+History and examination
+The crucial issue in the management of malaria is consideration of the possibility of this diagnosis. Malaria should be suspected in anyone with a fever or a history of fever who has returned from or previously visited a malaria-endemic area, regardless of whether they have taken prophylaxis. The minimum incubation period for naturally acquired infection is 6 days. Most patients with falciparum infection present in the first month or months after exposure; almost all present within 6 months of exposure. Vivax or ovale infections commonly present later than 6 months after exposure and presentation may be delayed for years. There are no specific symptoms of malaria: most patients complain of fever, headache and general malaise.6 Gastrointestinal disturbances, jaundice or respiratory symptoms occasionally occur and are often responsible for misdiagnosis. Most missed malaria infections are erroneously diagnosed as non-specific viral infections, influenza, gastroenteritis or hepatitis. Children are less likely than adults to complain of chills, arthralgia/myalgia or headaches and more likely to present with non-specific symptoms (fever, lethargy, malaise, and somnolence): gastrointestinal symptoms (nausea, abdominal pain, vomiting, and diarrhoea) are particularly common.7
+
+The physical examination of patients with uncomplicated malaria is often unremarkable apart from a fever which is not invariably present. In most patients, there is no specific fever pattern. Children are more likely to have hepatomegaly, splenomegaly and somnolence than adults.7 If the diagnosis of falciparum malaria has been delayed, severely ill patients may present with jaundice, confusion or seizures.
+
+Investigation
+If malaria is suspected, a blood test for malaria without delay is mandatory. If there is a potential for delay, the patient should be referred to hospital for testing. Results should be communicated the same day: all positive tests should be telephoned back to the requesting doctor as soon as practicable and ideally within 4 h of the test reaching the laboratory. The most important test is examination of thick and thin blood slides by microscopy. This is highly sensitive and specific in expert hands. However, because of a lack of expertise in many UK labs, particularly out of hours, rapid diagnostic tests (RDTs) based upon detection of parasite antigens or enzymes are now commonly used in addition to blood slides. Although slightly less sensitive than good quality blood films, they are easier for the non-expert to use to detect falciparum infections. RDTs are not as specific and sensitive for the detection of non-falciparum infections.8 RDTs may be used in addition to, but not as a replacement for blood films and all patients with suspected malaria should have blood films prepared and examined.9 If falciparum malaria is diagnosed, the percentage of red blood cells that are parasitized should be estimated.
+
+If there is clinical suspicion of malaria, but initial blood films are negative, repeat films should be examined after 12–24 h and again after a further 24 h. Thrombocytopenia, in particular, is highly suggestive of malaria in non-immune adults and children, both in falciparum and non-falciparum malaria.10, 11 Malaria is unlikely if 3 negative slides have been examined by a competent microscopist. Empirical therapy for malaria should not be given unless a patient with a convincing exposure history demonstrates features of severe malaria and expert advice has been taken. In pregnancy, thick films can be negative, despite the presence of parasites in the placenta. Expert advice should be sought if malaria is suspected.
+
+Cases of malaria should be notified to public health authorities and slides, plus a blood aliquot, sent to the Malaria Reference Laboratory for confirmation (which is performed free of charge). If malaria is diagnosed in a returned traveller, other members of the family or travelling group should be warned that they may have shared the same exposure risk and that they should seek medical attention if they develop symptoms (Box 1).
+
+Box 1
+Important considerations in the assessment of a patient with possible malaria
+
+•
+Malaria is a medical emergency and patients with suspected malaria should be evaluated immediately
+
+•
+Symptoms of malaria are often non-specific: fever/sweats/chills, malaise, myalgia, headache, diarrhoea, and cough
+
+•
+Falciparum malaria is most likely to occur within 3 months of return from an endemic area. The incubation period for malaria is at least 6 days
+
+•
+A careful exposure history is necessary: country and area of travel, including stopovers, and date of return
+
+•
+Consider what malaria prophylaxis was taken (i.e. drug, dose and adherence, premature cessation); appropriate prophylaxis with full adherence does not exclude malaria
+
+•
+Consider other travel-related infections, e.g. typhoid, hepatitis, dengue, avian influenza, SARS, HIV, meningitis/encephalitis and viral haemorrhagic fevers (VHF)
+
+•
+Three negative slides over a period of 48–72 h are necessary to exclude malaria
+
+•
+Chemoprophylaxis should be stopped on admission to hospital as this may interfere with parasite detection
+
+
+Assessment and general management and assessment of confirmed malaria
+Non-falciparum malaria
+Malaria should always be managed in consultation with someone experienced in managing the disease.
+
+The distinction between falciparum malaria and other species of malaria is important. Malaria caused by P. ovale, P. vivax and P. malariae rarely cause life-threatening disease, except in exceptional circumstances12 and can usually be managed on an outpatient basis, unless the patient has other co-morbidities. Estimation of the haemoglobin concentration should be done, and in malaria caused by vivax or ovale, glucose-6-phosphate dehydrogenase (G6PD) activity should be measured, as primaquine therapy will be necessary after treatment of the acute disease to eliminate hypnozoites (dormant forms) from the liver. Primaquine can cause haemolysis in patients with G6PD deficiency. Patients with a mixed infection that includes falciparum parasites or with an infection that cannot be speciated should be treated as though they had falciparum infection in the first instance.
+
+Falciparum malaria
+All patients with falciparum malaria should be admitted to hospital initially. Although some specialist units in the UK treat certain patients with falciparum malaria as outpatients and others in Europe have advocated the safety of outpatient treatment,13, 14 even patients who might be expected to be semi-immune may deteriorate rapidly and require intensive care treatment.15, 16 Children with falciparum malaria should be admitted to hospital for at least 24 h, because of the possibility of rapid progression and poor tolerance of oral therapies especially in cases complicated by vomiting.17, 18 All patients should be observed closely; certain categories such as pregnant women, infants and the elderly are more likely to develop severe disease or to deteriorate rapidly.3, 19 The management of patients with falciparum malaria, especially if severe, should always be discussed with a specialist.
+
+Patients with falciparum malaria (or a mixed infection which includes falciparum parasites) can be divided into those with uncomplicated and those with severe or complicated disease (Box 2). Assessment of the patient should include careful clinical evaluation and review of investigations for the features of severe malaria detailed below. A full blood count, urea and electrolytes, liver function tests and blood glucose should be done routinely. In ill patients, blood gases, blood culture, lactate and clotting studies should also be performed. Urine dipstick and culture, stool culture and chest X-ray may be appropriate. Lumbar puncture to exclude meningitis should be considered in febrile patients with impaired consciousness or repeated seizures.
+
+Box 2
+Major features of severe or complicated falciparum malaria in adults
+
+•
+Impaired consciousness or seizures
+
+•
+Renal impairment (oliguria < 0.4 ml/kg bodyweight per hour or creatinine > 265μmol/l)
+
+•
+Acidosis (pH < 7.3)
+
+•
+Hypoglycaemia (<2.2 mmol/l)
+
+•
+Pulmonary oedema or acute respiratory distress syndrome (ARDS)
+
+•
+Haemoglobin ≤ 8 g/dL
+
+•
+Spontaneous bleeding/disseminated intravascular coagulation
+
+•
+Shock (algid malaria – BP < 90/60 mmHg)
+
+•
+Haemoglobinuria (without G6PD deficiency)
+
+
+The initial parasite count is helpful in estimating the potential severity of disease. Although highly dependent upon the stage of the infection, if more than 2% of red blood cells are parasitized, there is an increased chance of developing severe disease. Other important prognostic factors are the following: the presence of peripheral blood schizonts of P. falciparum, pigment deposits in peripheral polymorphonuclear leucocytes on the blood film20, 21 and metabolic acidosis or an elevated lactate level.22, 23, 24
+
+Treatment of uncomplicated falciparum malaria in adults
+There are 3 main therapeutic options for the treatment of uncomplicated falciparum malaria in adults in the UK: oral quinine plus doxycycline (or quinine plus clindamycin in certain circumstances), co-artem (artemether–lumefantrine – Riamet®) or atovaquone–proguanil (Malarone®) (see Box 3 for details of doses). All are equally effective. Although mefloquine is effective, the side effects and high rate of non-completion of courses25 means that we do not recommend this as therapy in the UK.
+
+Box 3
+Treatment regimens for uncomplicated malaria in adults
+
+•
+Oral quinine sulphate 600 mg/8 h for 5–7 days plus doxycycline 200 mg daily (or clindamycin 450 mg/8 h for pregnant women) for 7 days
+
+•
+Atovaquone–proguanil (Malarone®): 4 ‘standard’ tablets daily for 3 days or
+
+•
+Co-artem (Riamet®): if weight > 35 kg, 4 tablets then 4 tablets at 8, 24, 36, 48 and 60 h
+
+
+Clinical experience of therapy with co-artem (Riamet®) or atovaquone–proguanil (Malarone®) is relatively limited in Western settings. However, both of these newer regimens need to be taken for only 3 days. In contrast, quinine needs to be taken for 5–7 days and is often associated with “cinchonism” (nausea, deafness and ringing in the ears), which often results in poor adherence. Although international recommendations suggest that quinine should be taken for 7 days in endemic areas,2 UK experience suggests that 5 days treatment is adequate for the vast majority of cases. Quinine should be combined with a second drug (doxycycline for adults or clindamycin in pregnant women and young children) to ensure complete eradication of parasites. The second drug can be taken either simultaneously with or sequentially after the quinine. In view of increasing failure rates of anti-folate drugs in most part of the world, the balance of UK opinion is that sulfadoxine–pyrimethamine (Fansidar®) should not be routinely used as a second drug to accompany quinine, but may be appropriate in some circumstances. Chloroquine should NOT be used for the treatment of falciparum malaria.
+
+Treatment of severe or complicated falciparum malaria
+Antimalarial therapy
+Urgent appropriate therapy has the greatest impact on prognosis in severe malaria. Treatment should not be delayed in patients with proven or strongly suspected malaria. Parenteral treatment is indicated in all patients with severe or complicated malaria, those at high risk of developing severe disease (Box 4) or if the patient is vomiting and unable to take oral antimalarials.
+
+Box 4
+Other indications for parenteral therapy in adults
+
+•
+Parasitaemia > 2% red blood cells parasitized
+
+•
+Pregnant women
+
+•
+Patients unable to swallow/retain tablets
+
+
+Quinine
+Intravenous quinine dihydrochloride is currently the first line antimalarial drug for the treatment of severe malaria in the UK. It should be given as an intravenous infusion with an initial loading dose of 20 mg/kg in 5% dextrose or dextrose/saline over 4 h to achieve high blood levels rapidly26 (see Box 5). This should be followed by 10 mg/kg infused over 4 h every 8 h. A loading dose should not be given if quinine or mefloquine therapy has been taken within the previous 12 h.27 An alternative loading dose regimen may achieve therapeutic levels more rapidly (see Box 5).28 Caution should be exercised in older patients or those with cardiac disease, because of the potential for quinine to lead to arrhythmias. These patients should have ECG monitoring during intravenous quinine treatment.
+
+Box 5
+Drug treatment of severe or complicated malaria
+
+•
+Quinine: loading dose of 20 mg/kg quinine dihydrochloride in 5% dextrose or dextrose saline over 4 h. Followed by 10 mg/kg every 8 h for first 48 h (or until patient can swallow). Frequency of dosing should be reduced to 12 hourly if intravenous quinine continues for more than 48 h.
+
+•
+Alternative rapid quinine loading regimen (adults only) 7 mg/kg quinine dihydrochloride over 30 min using an infusion pump followed by 10 mg/kg over 4 h.
+
+•
+Parenteral quinine therapy should be continued until the patient can take oral therapy when quinine sulphate 600 mg should be given 3 times a day to complete 5–7 days of quinine in total.
+
+•
+Quinine treatment should always be accompanied by a second drug: doxycycline 200 mg (or clindamycin 450 mg 3 times a day for pregnant women, 7–13 mg/kg 3 times a day for children), given orally for total of 7 days from when the patient can swallow.
+
+•
+Artesunate regimen: appropriate for adults only on expert advice. 2.4 mg/kg given as an intravenous injection at 0, 12 and 24 h then daily thereafter. A 7-day course of doxycycline should also be given.
+
+
+When the patient is well enough to take oral medication, oral quinine should be substituted (600 mg 3 times a day) to complete a total course of 5–7 days and doxycycline 200 mg daily (or clindamycin 450 mg 3 times a day for pregnant women) should also be given for a total of 7 days. If intravenous quinine needs to be continued for longer than 48 h, or the patient is in renal failure or has severe hepatic dysfunction, quinine doses should be reduced by one-third.2, 29
+
+Artemisinins
+This class of drugs acts upon ring forms of the parasite and has theoretical advantages of more rapid reduction of parasite burden and the prevention of sequestration of peripheral young ring forms. Two main compounds are potentially available for treatment of severe disease in the UK: although rectal formulations also exist, these are most appropriate for resource-poor settings where intravenous therapy cannot be provided.
+
+Artesunate is available as a water-soluble intravenous formulation. One recent large randomised controlled trial in Asia compared parenteral artesunate to intravenous quinine and showed a significant survival advantage of artesunate over quinine in predominantly adult Asian patients with severe malaria (relative risk reduction of 34.7%; the number needed to treat to avert one death was 13).30 The beneficial effect was more marked in those with an initial parasitaemia greater than 10%.
+
+The manufacturers of intravenous artesunate have not achieved good manufacturing practice (GMP) certification and artesunate has not been licensed in the European Union. Nevertheless, the ACMP is impressed by accumulating evidence that artesunate offers a significant benefit over quinine for patients with very severe malaria or high parasite counts. The use of artesunate in severe malaria has also been strongly supported by Trop Net Europe (www.tropnet.net/statements/documents/TropNetEurop_Artesunate_Statement.pdf).
+
+Intravenous artesunate can be made available from specialist tropical disease centres in London and Liverpool (see below for contact details), on expert consultation, for the treatment of specific cases where the benefits outweigh the potential disadvantages of using an unlicensed drug. This includes patients with parasite counts over 20%, very severe disease, deterioration on optimal doses of quinine, cardiovascular disease that increases the risks from quinine or patients with falciparum malaria from SE Asia where relative quinine resistance is most likely. In such circumstances, artesunate may be considered as an alternative or in addition to quinine. Treatment should never be delayed whilst obtaining artesunate: every patient with severe malaria should start quinine immediately in the first instance.
+
+Artemether is an oil-based intramuscular preparation, which is produced to GMP standards. However, despite generally favourable trends, several studies and meta-analyses have not shown a clear advantage of artemether over quinine in the management of severe malaria in either adults or children.31, 32, 33 This may in part be due to poor absorption of the intramuscular drug in very sick patients.
+
+Neither quinine nor artesunate levels are affected by haemofiltration; dose modification is not necessary.
+
+Supportive management34
+All patients with severe or complicated malaria should be managed in a high dependency unit. Patients may deteriorate rapidly and close observation is vital. Transfer to an intensive care unit should be considered for those with severe acidosis, pulmonary oedema/acute respiratory distress syndrome, complicated fluid balance problems or renal impairment and those deteriorating despite appropriate treatment (Box 6). Careful fluid balance can help to manage acidosis; observation of the jugular venous pulse (JVP) or central venous access is helpful in both optimising fluid balance and avoiding over-filling which may exacerbate the increased pulmonary capillary permeability that occurs in severe malaria. Hypoglycaemia may occur in severe malaria, complicated by quinine-induced hyperinsulinaemia which may develop late in the clinical course, even after the patient appears to be recovering.35, 36 Blood glucose levels (using a “stix” method) should be checked every 4 h and more regularly during the infusion, e.g. 2 hourly. Infusion of 10% dextrose may be necessary. ECG monitoring should be performed during the use of intravenous quinine because of its potential to cause arrhythmias, particularly in older patients or those with pre-existing heart disease.
+
+Box 6
+Intensive care management of severe or complicated malaria
+
+•
+Careful management of fluid balance to optimise oxygen delivery and reduce acidosis
+
+•
+Monitoring of central venous pressure to keep right atrial pressure < 10 cm H2O, to prevent pulmonary oedema and ARDS
+
+•
+Regular monitoring for hypoglycaemia
+
+•
+Consider broad spectrum antibiotics if evidence of shock or secondary bacterial infection
+
+•
+Haemofiltration for renal failure or control of acidosis or fluid/electrolyte imbalance
+
+•
+Consider medication to control seizures
+
+•
+Consideration of exchange transfusion in patients with hyperparasitaemia (see below)
+
+
+Haemoglobin, clotting, electrolytes (including calcium and sometimes magnesium) and renal function should be closely monitored. Frequent parasite counts are not helpful in the early management of severe malaria; the peripheral parasite count will fluctuate according to the stage of parasite development and it is not uncommon for the parasite count to increase in the first 24–36 h of treatment: this does NOT indicate failure of therapy.16 Daily parasite counts are sufficient.
+
+Some patients develop shock which may be secondary to complicating bacteraemia/septicaemia (“algid malaria”). White cell counts may be raised or normal and blood cultures may remain negative: patients with signs of shock unresponsive to initial fluid balance correction should be treated with a broad-spectrum antibiotic. Appropriate ventilatory support or renal replacement therapy should be initiated if clinically indicated: haemofiltration appears to be superior to peritoneal dialysis.37 Patients with impaired consciousness or coma should be managed appropriately. There is no evidence to support the use of corticosteroids,38, 39 mannitol, or other adjunctive therapies for the treatment of severe malaria.
+
+Exchange transfusion
+The role of exchange transfusion in the management of severe malaria is controversial and there is no clear evidence base to guide its use.40, 41 The theoretical advantages of removing parasitized red blood cells (either as complete exchange transfusion or red cell apheresis) have to be balanced against the complications of blood transfusion in individuals who may have haemodynamic instability. Exchange transfusion may be considered after discussion with an expert in the management of malaria in patients with hyperparasitaemia (>30% red blood cells parasitized) or >10% parasitaemia and other manifestations of severe disease. The potential benefit of exchange transfusion may be limited if artesunate becomes routinely used for the treatment of severe malaria because of artesunate's rapid action in reducing parasite burden.
+
+Pregnant women
+Malaria in pregnancy carries a higher risk of severe disease and is also associated with miscarriages or stillbirths. Hypoglycaemia and pulmonary oedema are particularly common manifestations of severe falciparum malaria in pregnancy.36 Pregnant women with malaria require prompt treatment with quinine and should be managed in collaboration with the obstetric team. Close observation including uterine and foetal heart monitoring for development of complications is necessary and early delivery of a near-term infant at risk may need to be considered. Neither co-artem (Riamet®) nor atovaquone–proguanil (Malarone®) should be used in pregnancy. Clindamycin (see dose above) should be used instead of doxycycline as a second drug to accompany quinine in the treatment of falciparum malaria.42
+
+Management of malaria in children
+Uncomplicated falciparum malaria in children
+Oral quinine, atovaquone–proguanil (Malarone®) and co-artem (Riamet®) can all be used for the treatment of uncomplicated malaria in children (Table 1). In contrast to the views of some authors,43 we believe that oral quinine is usually well-tolerated by children and is an appropriate drug for the treatment of uncomplicated falciparum malaria in the UK.44 While there are concerns about increasing failure rates of anti-folate drugs, sulfadoxine–pyrimethamine (Fansidar®) still appears to be effective when combined with quinine with low relapse rates in children in the UK44 and the use of alternative agents such as doxycycline or tetracyclines is more difficult in children than in adults. Tetracyclines should not be given to children under 12 years of age because of risk of dental hypoplasia and permanent discoloration of teeth. Clindamycin in liquid formulation is not readily available in the UK, thus limiting the use of clindamycin to those children who can swallow capsules. There is limited experience in the use of co-artem (Riamet®) and atovaquone–proguanil (Malarone®) in a non-endemic paediatric population and co-artem is currently only licensed for over 12 s in the UK.
+
+Table 1. Paediatric doses of antimalarial drugs
+
+Drug	Dose
+Oral quinine	10 mg/kg (of quinine salt) 8 hourly for 7 days
+and
+Clindamycin	7–13 mg/kg/dose 8 hourly for 7 days
+Or
+Doxycycline (if >12 years old)	200 mg once daily for 7 days
+Or
+Fansidar®	up to 4 years (>5 kg) ½ tablet as a single dose
+5–6 years 1 tablet as a single dose
+7–9 years 1 ½ tablets as a single dose
+10–14 years 2 tablets as a single dose
+14–18 years 3 tablets as a single dose
+
+Atovaquone–proguanil	Over 40 kg: 4 ‘standard’ tablets daily for 3 days
+(Malarone®)	31–40 kg 3 ‘standard’ tablets daily for 3 days
+21–30 kg 2 ‘standard’ tablets daily for 3 days
+11–20 kg 1 ‘standard’ tablet daily for 3 days
+9–10 kg 3 ‘paediatric’ tablets daily for 3 days
+5–8 kg 2 ‘ paediatric’ tablets daily for 3 days
+
+Co-artem (Riamet®) (only licensed in the UK for children > 12 years or over 35 kg)	>35 kg, 4 tablets then 4 tablets at 8, 24, 36, 48 and 60 h
+25–35 kg 3 tablets then 3 tablets at 8, 24, 36, 48 and 60 h
+15–24 kg 2 tablets then 2 tablets at 8, 24, 36, 48 and 60 h
+5–14 kg 1 tablet then 1 tablet at 8, 24, 36, 48 and 60 h
+
+Intravenous quinine	See dosing in Box 5 (maximum quinine concentration in infusion fluid should be 2 mg/ml)
+Severe and complicated falciparum malaria in children
+The main clinical presentations of severe malaria in children are cerebral malaria, severe anaemia and respiratory distress/acidosis. Features of cerebral malaria include depressed conscious level, seizures, altered respiration and posturing (decorticate or decerebrate). Hypoglycaemia, metabolic acidosis, circulatory shock and electrolyte disturbance may also be present. Prostration (the inability to stand or sit) is also an indicator of severe disease in children (Box 7).
+
+Box 7
+Severe or complicated malaria in children
+
+•
+Impaired consciousness or seizures
+
+•
+Respiratory distress or acidosis (pH < 7.3)
+
+•
+Hypoglycaemia (2.2 mmol/l)
+
+•
+Severe anaemia (<8 g/dL)
+
+•
+Prostration
+
+•
+Parasitaemia > 2% red blood cells parasitized
+
+
+Management of severe or complicated malaria in children involves emergency assessment and provision of supportive care including respiratory and cardiovascular support as outlined recently by Maitland et al.43 Children with severe or complicated malaria should be managed in a paediatric intensive care unit or high dependency unit together with support/advice from a paediatric infectious diseases/tropical medicine specialist who has experience in managing malaria. Volume resuscitation with either 0.9% saline or 4.5% albumin is important in those children with shock alone. Volume expansion in children with coma and shock needs to be cautious and it has been suggested that human albumin is associated with a lower mortality compared with normal saline or other plasma expanders.45, 46
+
+Hypoglycaemia is a common complication of severe malaria; serial blood glucose estimations must be performed, and hypoglycaemia corrected using 5–10% glucose in maintenance fluid.35 As it is often difficult to exclude or differentiate concurrent bacterial septic shock or meningitis from severe malaria, empirical broad-spectrum antibiotics should be given to children with severe malaria until bacterial infection can be excluded.47 Management of seizures should follow the evidence-based guidelines advocated by the Advanced Paediatric Life Support Group.48 Blood transfusions may be required for severe anaemia although a Cochrane review found that routine transfusion did not reduce mortality, but caused more adverse events.49
+
+Intravenous quinine is currently the only drug indicated for the treatment of severe malaria in children in the UK. There is at present limited evidence supporting the superiority of injectable artesunate in children, however, large multicentre trials are currently underway in Africa. Until the results of these trials are available, intravenous quinine remains the drug of choice for paediatric patients with severe malaria. Intravenous quinine may also be used in children who do not tolerate oral medications.
+
+Treatment of non-falciparum malaria
+Treating the acute infection
+The treatment of non-falciparum malaria consists of treating the erythrocytic asexual forms that cause symptoms and, for infections with P. vivax and P. ovale, ensuring eradication of liver hypnozoites to prevent relapse of infection. If a mixed infection with falciparum has been treated, there is no need for an additional drug to treat the blood forms of non-falciparum infection, but relapse due to the liver forms will still need to be prevented. Chloroquine (20 mg/kg in total over 3 days) is the drug of choice for the treatment of blood forms for all non-falciparum species. Chloroquine can also be used for retreatment if relapses occur. Chloroquine is highly effective against all strains of P. malariae and P. ovale and is effective in most cases of vivax malaria.
+
+Chloroquine resistance leading to poor clinical outcomes of chloroquine treatment has been recognised in vivax malaria since 1992. This is an uncommon but increasing problem, particularly in the regions of Papua New Guinea and Indonesia.50, 51 The committee's view is that first line treatment of vivax infections should remain chloroquine even for patients who have acquired infection from potentially resistant areas. However, in the event of failure of chloroquine (persistent symptoms or parasites) (Table 2), several alternative regimens are available. There is limited evidence to favour any particular regimen, but all 3 regimens used for the treatment of uncomplicated malaria are likely to be effective.52, 53
+
+Table 2. Treatment of non-falciparum malaria
+
+Acute treatment
+Chloroquine
+ Adult	
+Initial dose 600 mga
+
+300 mg 6–8 h later
+
+300 mg on days 2 and 3
+
+Treatment of acute vivax, ovale and malariae malaria
+ Child	Initial dose 10 mg/kg/base then 5 mg/kg base 6–8 h later and on days 2 and 3
+
+Quinine/co-artem/atovaquone–proguanil	As for uncomplicated falciparum	Treatment of resistant vivax malaria
+
+Preventing relapse
+Primaquine
+ Adult	15 mg as a single daily dose for 14 days	Prevention of relapse in ovale malaria
+ Child	0.25 mg/kg as a single daily dose for 14 days
+
+Primaquine
+ Adult	30 mg as a single daily dose for 14 day	Prevention of relapse in vivax malaria
+ Child	0.5 mg/kg as a single daily dose for 14 days
+
+Primaquine
+ Adult	45–60 mg as a single weekly dose for 8 weeks	Prevention of relapse in vivax or ovale malaria in patients with mild G6PD deficiency
+ Child	0.5–0.75 mg/kg (max 30 mg) as a single weekly dose for 8 weeks
+a
+Expressed as mg base.
+
+Prevention of relapse in ovale or vivax malaria
+Late presentation or relapse due to hypnozoites in the liver occurs in more than 25% of patients with vivax malaria treated with chloroquine alone.54 Blood schizonticides such as chloroquine, and all other drugs currently used for treating acute malaria, do not eliminate these liver stages, so a second drug is required to achieve “radical” cure. Primaquine is the drug of choice for elimination of hypnozoites in ovale or vivax malaria. Patients should be screened for G6PD deficiency before primaquine treatment, as primaquine may cause haemolysis in G6PD deficient individuals.
+
+The standard therapeutic dose of 15 mg primaquine base/day for 14 days is appropriate for the radical treatment of P. ovale. Certain geographical strains of P. vivax have long been recognised to possess innate resistance to primaquine and require higher doses of primaquine to prevent relapse.55 However, there has been increasing evidence of failure of standard dose primaquine from other geographical areas: clinical relapse occurs in the UK in more than 10% of patients with imported vivax treated with chloroquine followed by unsupervised primaquine 15 mg/day for 14 days.56 Higher dose primaquine 30 mg/kg is more effective than 15 mg/kg in South Asia, the source of most UK infections.57, 58 We therefore recommend that in vivax malaria, primaquine should be given at a dose of 30 mg/day for 14 days to prevent relapse after initial treatment with chloroquine.
+
+Expert opinion should be sought when treating patients with G6PD deficiency. In those with mild G6PD deficiency, alternative regimens of 45 or 60 mg primaquine weekly for 8 weeks may be safely tolerated.59, 60 In some cases, particularly those who have previously suffered severe adverse effects of primaquine, it may be prudent to withhold primaquine treatment, but to treat relapses promptly. Primaquine is contraindicated in pregnancy, suppressive therapy with weekly chloroquine until delivery should be used.
