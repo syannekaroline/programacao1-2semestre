@@ -21,6 +21,8 @@ lista.insert(posição,item) insere na posição o item
 
 2.3 lista.remove(item) - tem como parâmetro o índice que se quer remover - remove pelo conteúdo
 
+2.3 lista.clear()- apaga todos os dados da lista 
+
 obs: se  for tentado remover um elemento ou um índice que não pertemcem à lista vai dar um erro
 mas há como verificar se o item tá na lista pelo "for tananam in "
 
@@ -86,7 +88,7 @@ lista=list(map(int,input("Insira vários valores pra lista separados por espaço
 
 print(lista)
 
-#gerando lista com valores aleatórios
+print("gerando lista com valores aleatórios")
 for i in range (0,len(lista)):
 
     lista.insert(i,randint(1,22))
@@ -117,10 +119,11 @@ for i in range(1,4):
 for i,v in enumerate(lista):
     print(f"Posição : {i} | valor : {v}")
 
-#ao igualar listas cria uma ligação entre as listas ou seja, o que acontece em uma acontece com a outra tipo parabatais ou um boneco de vudu e a pessoa que ele representa KKK
+print("ao igualar listas cria uma ligação entre as listas ou seja, o que acontece em uma acontece com a outra tipo parabatais ou um boneco de vudu e a pessoa que ele representa KKK")
 
 lista2=lista
 lista2.insert(1,22)
+
 print(lista2)
 print(lista)
 
@@ -129,6 +132,15 @@ del lista[:4]
 print("forma de copiar sem criar ligação\n\n")
 lista3=lista[:]
 lista3.append(22)
+print(lista)
+print(lista2)
+print(lista3)
+
+print("Excluindo todos os itens da listas: ")
+
+lista.clear()# del lista[:]
+del lista2[:]
+lista3.clear()
 print(lista)
 print(lista2)
 print(lista3)

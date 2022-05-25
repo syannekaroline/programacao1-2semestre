@@ -53,3 +53,5 @@ dados_empregado["zip"] = input("Entre com o CEP: ")
 dados_empregado["ID"] = input("Entre com o ID: ")
 
 validar(dados_empregado)
+
+print(dados_empregado)

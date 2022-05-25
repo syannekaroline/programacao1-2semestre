@@ -7,19 +7,19 @@ con = sqlite3.connect('teste.db')
 cur = con.cursor()
 
 # Create table
-# cur.execute('''CREATE TABLE empregados
-#                (primeiroNome text, ultimoNome text, cargo text, dataSaida text)''')
+ cur.execute('''CREATE TABLE empregados
+                (primeiroNome text, ultimoNome text, cargo text, dataSaida text)''')
 
 # # # Insert a row of data
-# cur.execute("INSERT INTO empregados VALUES ('John', 'Johnson', 'Manager', '2016-12-31')")
-# cur.execute("INSERT INTO empregados VALUES ('Tou', 'Xiong', 'Software Engineer', '2016-10-05')")
-# cur.execute("INSERT INTO empregados VALUES ('Michaela', 'Michaelson', 'District Manager', '2015-12-19')")
-# cur.execute("INSERT INTO empregados VALUES ('Jake', 'Jacobson', 'Programmer', '')")
-# cur.execute("INSERT INTO empregados VALUES ('Jacquelyn', 'Jackson', 'DBA', '')")
-# cur.execute("INSERT INTO empregados VALUES ('Sally', 'Weber', 'Web Developer', '2015-12-18')")
+cur.execute("INSERT INTO empregados VALUES ('John', 'Johnson', 'Manager', '2016-12-31')")
+cur.execute("INSERT INTO empregados VALUES ('Tou', 'Xiong', 'Software Engineer', '2016-10-05')")
+cur.execute("INSERT INTO empregados VALUES ('Michaela', 'Michaelson', 'District Manager', '2015-12-19')")
+cur.execute("INSERT INTO empregados VALUES ('Jake', 'Jacobson', 'Programmer', '')")
+cur.execute("INSERT INTO empregados VALUES ('Jacquelyn', 'Jackson', 'DBA', '')")
+cur.execute("INSERT INTO empregados VALUES ('Sally', 'Weber', 'Web Developer', '2015-12-18')")
 
 # # Save (commit) the changes
-# con.commit()
+con.commit()
 
 def addSpace(celula, num, lado="direito"):
     dif = num-len(celula)
